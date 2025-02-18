@@ -1,0 +1,8 @@
+/* filepath: /c:/Users/rehan/OneDrive/Desktop/Raffey-Portfolio/app/components/work/ProjectDetails.module.css */
+.icon {
+  transition: color 0.3s ease;
+}
+
+.icon:hover {
+  color: #ff6347; /* Change this to your desired hover color */
+}
